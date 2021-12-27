@@ -1,10 +1,17 @@
 # Nixie-Clocks
 Open-source nixie clocks project.
 
-<img src="media/nixie.png" width=50%>
+<img src="media/nixie.jpg" width=50%>
 
 Final product
 
+<img src="media/top_view.jpg" width=50%>
+
+Top view
+
+<img src="media/overview.jpg" width=50%>
+
+Overview
 
 <img src="media/nixie_change.gif" width=50%>
 
@@ -23,5 +30,5 @@ Slot-machine effect
 
 [Dieter's Nixie Wolrd: Catode poisoning](http://www.tube-tester.com/sites/nixie/different/cathode%20poisoning/cathode-poisoning.htm)
 
-[Power source schematic by ](http://elbastl.sweb.cz/hodiny.htm)
+[Power source schematic](http://elbastl.sweb.cz/hodiny.htm)
     
